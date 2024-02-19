@@ -1,4 +1,5 @@
-# Instagram Data Analysis SQL Project
+# Instagram User Analytics
+
 **Introduction**
 
 This project focuses on analyzing Instagram data using SQL queries. Two main tasks were performed: Investor Metrics and Marketing Analysis.
